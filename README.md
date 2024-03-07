@@ -3,7 +3,7 @@ from GitHub import Readme
 
 class Auth(Readme):
 
-    "https://GitHub.com/TerminalNukeZ/Termu/README.md"
+    "https://GitHub.com/TerminalNukeZ/Terminal/README.md"
     
     def __init__(self):
     
